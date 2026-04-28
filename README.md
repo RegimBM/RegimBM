@@ -18,7 +18,6 @@ I am a computer science in LaGuardia Community college, A beginner developer lea
 
 - Email: Regimbudha@gmail.com
 - LinkedIn: [regim budha](https://www.linkedin.com/in/regim-budha-15a3b73b6/)
-- Portfolio: <YOUR PORTFOLIO URL OR REMOVE THIS LINE>
 
 ## ⚡ A little more about me
 
